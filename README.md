@@ -1,3 +1,3 @@
-# DataStructures---Assignment-1
-created "mini" social network using Set structure and interface
+#Mini Social Network
+- created "mini" social network using Set data structure and interface
 
